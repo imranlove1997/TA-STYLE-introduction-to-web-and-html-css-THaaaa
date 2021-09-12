@@ -1,0 +1,22 @@
+body {
+    background-color: #22396a;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 47px;
+}
+.green {
+    color: #31bb66;
+    font-size: 40px;
+}
+p {
+    font-size: 24px;
+}
+.new {
+    font-size: 20px;
+}
+a {
+    color: red;
+    font-size: 25px;
+}
